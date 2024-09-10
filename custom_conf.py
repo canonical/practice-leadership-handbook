@@ -19,13 +19,13 @@ import datetime
 ############################################################
 
 # Product name
-project = 'Documentation starter pack'
-author = 'Canonical Group Ltd'
+project = 'Handbook for practice leads'
+author = 'Daniele Procida'
 
 # The title you want to display for the documentation in the sidebar.
 # You might want to include a version number here.
 # To not display any title, set this option to an empty string.
-html_title = project + ' documentation'
+html_title = ""
 
 # The default value uses the current year as the copyright year.
 #
@@ -41,7 +41,7 @@ html_title = project + ' documentation'
 #   -H 'Accept: application/vnd.github.v3.raw' \
 #   https://api.github.com/repos/canonical/<REPO> | jq '.created_at'
 
-copyright = '%s, %s' % (datetime.date.today().year, author)
+copyright = '%s, %s' % (datetime.date.today().year, "Canonical Group Ltd")
 
 ## Open Graph configuration - defines what is displayed as a link preview
 ## when linking to the documentation from another website (see https://ogp.me/)
@@ -49,11 +49,11 @@ copyright = '%s, %s' % (datetime.date.today().year, author)
 # don't know yet)
 # NOTE: If no ogp_* variable is defined (e.g. if you remove this section) the
 # sphinxext.opengraph extension will be disabled.
-ogp_site_url = 'https://canonical-starter-pack.readthedocs-hosted.com/'
+# ogp_site_url = 'https://canonical-starter-pack.readthedocs-hosted.com/'
 # The documentation website name (usually the same as the product name)
-ogp_site_name = project
+# ogp_site_name = project
 # The URL of an image or logo that is used in the preview
-ogp_image = 'https://assets.ubuntu.com/v1/253da317-image-document-ubuntudocs.svg'
+# ogp_image = 'https://assets.ubuntu.com/v1/253da317-image-document-ubuntudocs.svg'
 
 # Update with the local path to the favicon for your product
 # (default is the circle of friends)
@@ -77,15 +77,15 @@ html_context = {
     # Change to the discourse instance you want to be able to link to
     # using the :discourse: metadata at the top of a file
     # (use an empty value if you don't want to link)
-    'discourse': 'https://discourse.ubuntu.com',
+    'discourse': '',
 
     # Change to the Mattermost channel you want to link to
     # (use an empty value if you don't want to link)
-    'mattermost': 'https://chat.canonical.com/canonical/channels/documentation',
+    'mattermost': '',
 
     # Change to the Matrix channel you want to link to
     # (use an empty value if you don't want to link)
-    'matrix': 'https://matrix.to/#/#documentation:ubuntu.com',
+    'matrix': '',
 
     # Change to the GitHub URL for your project
     # This is used, for example, to link to the source files and allow creating GitHub issues directly from the documentation.
@@ -104,10 +104,10 @@ html_context = {
 
     # Controls the existence of Previous / Next buttons at the bottom of pages
     # Valid options: none, prev, next, both
-    'sequential_nav': "none",
+    'sequential_nav': "both",
 
     # Controls if to display the contributors of a file or not
-    "display_contributors": True,
+    "display_contributors": False,
 
     # Controls time frame for showing the contributors
     "display_contributors_since": ""
@@ -216,3 +216,7 @@ rst_prolog = '''
 .. role:: center
    :class: align-center
 '''
+
+custom_html_css_files = [
+    "canonical.css",
+]
