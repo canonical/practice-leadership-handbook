@@ -20,7 +20,7 @@ What is your ultimate aim? Can you express it in a single sentence?
 
 ..  admonition:: Example from documentation practice
 
-    **To set a standard of excellence in documentation for the entire software industry**.
+    "To set a standard of excellence in documentation for the entire software industry"
 
 If your aim doesn't make people blink with surprise the first time they hear it, it probably isn't ambitious enough.
 
