@@ -19,7 +19,7 @@ import datetime
 ############################################################
 
 # Product name
-project = 'Handbook for practice leads'
+project = 'Canonical Practice Leadership Handbook'
 author = 'Daniele Procida'
 
 # The title you want to display for the documentation in the sidebar.
