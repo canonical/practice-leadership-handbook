@@ -6,7 +6,7 @@ Securing assent
 
 One of your challenges is to be able to present a compelling and believable vision to your colleagues - to take it to them. The next is to bring them over, so that they don't just see it, but feel they can share it too.
 
-**Your vision, however beautiful, will be quite useless if you're the only one who believes in it.** 
+**Your vision, however beautiful, will be quite useless if you're the only one who believes in it.**
 
 *Securing assent* is a quite different kind of communication from sharing a vision a vision. That is something like broadcasting. Securing assent by contrast is a two-way transaction - an exchange.
 
@@ -14,7 +14,7 @@ One of your challenges is to be able to present a compelling and believable visi
 How belief works
 ================
 
-We invest a vast amount of intellectual energy in the ideas that we think deserve it, to make them not just strong and believable, but deserving of belief. We make them intellectually rigorous, and understandable. 
+We invest a vast amount of intellectual energy in the ideas that we think deserve it, to make them not just strong and believable, but deserving of belief. We make them intellectually rigorous, and understandable.
 
 The problem is that we we think this will make people believe them. Sadly, this is completely untrue.
 
@@ -42,15 +42,15 @@ You want to make it so that no reasonable person could refuse the force of your 
 .. epigraph::
 
     "Then Logic would take you by the throat, and force you to do it!" Achilles triumphantly replied.
-    
-    -- (Lewis Carroll, "What the Tortoise Said to Achilles", *Mind* Vol. 104 . 416) - Wikipedia
 
-**Unfortunately, you will be wasting your time.** It's true that rationale, evidence, study and so on are important. A vision that can't fall back on them is unlikely to be robust. However, **they do not need to be part of its presentation in order for it to be believable**. In fact they have the opposite effect: they are heavy and tiring, off-putting things. 
+    -- (Lewis Carroll, "What the Tortoise Said to Achilles", *Mind* Vol. 104 . 416 - `Wikipedia <https://en.wikipedia.org/wiki/What_the_Tortoise_Said_to_Achilles>`_)
+
+**Unfortunately, you will be wasting your time.** It's true that rationale, evidence, study and so on are important. A vision that can't fall back on them is unlikely to be robust. However, **they do not need to be part of its presentation in order for it to be believable**. In fact they have the opposite effect: they are heavy and tiring, off-putting things.
 
 ..  figure:: images/reason.jpg
     :figclass: floated
 
-    They especially don't like being taken by the throat, even by logic. 
+    They especially don't like being taken by the throat, even by logic.
 
 The harder you push rationale and evidence at people, the harder they will find them to accept. It has the effect of sparking a desire to find flaws and fallacies and think of counter-evidence. People find it difficult to get into nailed-down, water-tight things.
 
@@ -58,7 +58,7 @@ The harder you push rationale and evidence at people, the harder they will find 
 Leave a way in
 --------------
 
-People are intelligent and imaginative, and another way of showing respect to the audience is to give their intelligence and imagination the opportunity to embrace the idea more freely. 
+People are intelligent and imaginative, and another way of showing respect to the audience is to give their intelligence and imagination the opportunity to embrace the idea more freely.
 
 So: provide them with concrete exemplars and illustrations of your idea, and allow them the pleasure of making the abstractions and connections and intuitive leaps between them all. This has the additional benefit of making those connections theirs - and now they are carrying your vision.
 
@@ -76,16 +76,16 @@ There are innumerable ways to give people the way in they need. What they have i
 
 ..  admonition:: Example from documentation practice
 
-    I prefer to use stories, because they are lightweight and easy to refine and adjust. 
-    
+    I prefer to use stories, because they are lightweight and easy to refine and adjust.
+
     In early conversations with engineering managers, the question of the value of diverting energy to documentation work came up often. In some cases, it was already known that support teams faced unnecessary burdens related to particular products, and that improved documentation would help address this. The rationale and evidence for more documentation work were clear, and the teams understood them.
 
     This could have been an attractive line of argument, but I didn't think it would be effective. At best, it would earn a kind of unenthusiastic acquiescence, with little motivating value.
 
-    I described how, in a previous role, we made some substantial changes to documentation in an attempt to reduce the burden on support. In fact, they didn't - what we noticed as a result was that the issues coming in to support were becoming *more difficult and challenging*. 
-    
+    I described how, in a previous role, we made some substantial changes to documentation in an attempt to reduce the burden on support. In fact, they didn't - what we noticed as a result was that the issues coming in to support were becoming *more difficult and challenging*.
+
     The documentation improvements had successfully lifted users over the initial roadbumps. They were now using our product to do more adventurous, inventive things. Some of them were things we hadn't even expected them to do; they were giving *us* ideas about possibilities.
-    
+
     For a product engineer, the idea that users are doing adventurous, inventive things with their product is immensely exciting and motivating. I didn't try or need to persuade or argue. I looked for something that the other side would want to believe in.
 
     In this case, the story allowed engineers to see and want the value for themselves, helping me get the assent that I needed, and not just an ineffectual, dutiful agreement.
@@ -98,18 +98,18 @@ In short: even if you have a water-tight vision, *don't oblige people to concede
 Wearable belief
 ===============
 
-As noted above, people believe ideas because the belief fits them comfortably. 
+As noted above, people believe ideas because the belief fits them comfortably.
 
 ..  figure:: images/bad-habit.jpg
     :figclass: floated
 
-    The language of wearing is not just a metaphor. In many languages, words that refer to clothing and to behaviour and attitudes and beliefs are the same. 
+    The language of wearing is not just a metaphor. In many languages, words that refer to clothing and to behaviour and attitudes and beliefs are the same.
 
-    *Costume* and *custom* share the same root. In Italian, *costumi* can refer to clothing or to morals. In English, a *habit* is also an item of clothing. In Romanian the verb *purtare* refers both to behaviour and wearing. It's not a coincidence. **Ideas are things we wear.** 
+    *Costume* and *custom* share the same root. In Italian, *costumi* can refer to clothing or to morals. In English, a *habit* is also an item of clothing. In Romanian the verb *purtare* refers both to behaviour and wearing. It's not a coincidence. **Ideas are things we wear.**
 
-You're asking people to wear your ideas, to live and work with them. You need your ideas to become the habits and customs of the company, that colleagues can put on. 
+You're asking people to wear your ideas, to live and work with them. You need your ideas to become the habits and customs of the company, that colleagues can put on.
 
-The truth of your vision is not the issue here. What matters is how well you can make it fit. Even if your vision is wearable, you can't make people actually wear it. You can't make them believe things. 
+The truth of your vision is not the issue here. What matters is how well you can make it fit. Even if your vision is wearable, you can't make people actually wear it. You can't make them believe things.
 
 Instead, you have to take the beliefs and attitudes that you want them to adopt, and make them fit people, comfortably. This means understanding those people as well as you understand your own vision. If you think you understand their needs, then you should certainly be able to share your vision, and illustrations and narratives of it, in ways that correspond with their needs.
 
@@ -125,6 +125,6 @@ It must not mean **distorting your vision, diluting your ambitions or obscuring 
 
     I used many early conversations at Canonical to learn what was on people minds about documentation. Often, the language they used didn't align well with what I had planned - less that it disagreed, than failed to engage. I had to work hard to understand the needs being expressed in that language, and find ways to use the same language to show the value I had to offer, before expecting others to adopt my language.
 
-    Later, whenever I heard *my* language being repeated back to me, I knew that this was a point where someone had tried on an idea I was offering. This was them telling me that they found it comfortable to wear. 
+    Later, whenever I heard *my* language being repeated back to me, I knew that this was a point where someone had tried on an idea I was offering. This was them telling me that they found it comfortable to wear.
 
 `Workbook - paying attention to language <https://docs.google.com/document/d/18_OOHIZJ8SQASDjdrtgU9TzLSZDl0fa91eGfHQsODM4/edit#heading=h.bosoc6wbso2g>`_
