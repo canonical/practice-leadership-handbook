@@ -35,7 +35,7 @@ It helps to spend a little time understanding what we are dealing with. The firs
 
 They are not the same! *Someone suffering genuine pain is in far more need of our consideration than someone suffering things they merely dislike.*
 
-Unfortunately it's very hard for you - as an observer - p distinguish, in any useful objective or reliable way, what people don't like from what's going to hurt them.
+Unfortunately it's very hard for you - as an observer - to distinguish, in any useful objective or reliable way, what people don't like from what's going to hurt them.
 
 Even worse, when dealing with people's objections to our actions and proposals, there is a risk of mistaking things that would actually harm them for things they merely dislike.
 
