@@ -28,7 +28,7 @@ It will help practice leads set out their own picture of what their role is and 
 About the handbook
 ==================
 
-The handbook was created to support the development of company-wide practice leadership at Canonical, but has also been used at much smaller scales, and could be useful in other organisations. It is largely based on experiences in establishing documentation practice as a discipline.
+The handbook was created to support the development of company-wide practice leadership at Canonical, but has also been used at much smaller scales, and could be useful in other organisations. It is largely based on experiences in establishing `documentation practice <https://canonical.com/documentation>`_ as a discipline.
 
 The handbook is accompanied by a short workbook designed to help users capture key ideas and values, and think about how to express them as a project that draws in the support of their colleagues.
 
