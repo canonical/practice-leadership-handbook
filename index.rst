@@ -30,7 +30,7 @@ About the handbook
 
 The handbook was created to support the development of company-wide practice leadership at Canonical, but has also been used at much smaller scales, and could be useful in other organisations. It is largely based on experiences in establishing `documentation practice <https://canonical.com/documentation>`_ as a discipline.
 
-The handbook is accompanied by a short workbook designed to help users capture key ideas and values, and think about how to express them as a project that draws in the support of their colleagues.
+The handbook is accompanied by a short `workbook (Google document) <https://docs.google.com/document/d/18_OOHIZJ8SQASDjdrtgU9TzLSZDl0fa91eGfHQsODM4/edit?pli=1&tab=t.0>`_ designed to help users capture key ideas and values, and think about how to express them as a project that draws in the support of their colleagues.
 
 The handbook and workbook are published under a `Creative Commons BY-SA licence <https://creativecommons.org/licenses/by-sa/4.0/>`_.
 
