@@ -67,7 +67,7 @@ html_context = {
     # For example: "ubuntu.com/lxd" or "microcloud.is"
     # If there is no product website, edit the header template to remove the
     # link (see the readme for instructions).
-    'product_page': 'documentation.ubuntu.com',
+    'product_page': 'documentation.ubuntu.com/canonical-practice-leadership-handbook/',
 
     # Add your product tag (the orange part of your logo, will be used in the
     # header) to ".sphinx/_static" and change the path here (start with "_static")
@@ -89,7 +89,7 @@ html_context = {
 
     # Change to the GitHub URL for your project
     # This is used, for example, to link to the source files and allow creating GitHub issues directly from the documentation.
-    'github_url': 'https://github.com/canonical/sphinx-docs-starter-pack',
+    'github_url': 'https://github.com/canonical/practice-leadership-handbook',
 
     # Change to the branch for this version of the documentation
     'github_version': 'main',
@@ -115,7 +115,7 @@ html_context = {
 
 # If your project is on documentation.ubuntu.com, specify the project
 # slug (for example, "lxd") here.
-slug = ""
+slug = "canonical-practice-leadership-handbook"
 
 ############################################################
 ### Redirects
