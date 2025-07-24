@@ -6,7 +6,7 @@ The concern of **practice leadership** is the posture and behaviour of the organ
 
 Insofar as practice leadership is associated with a particular outcome, it addresses that outcome through attention to the practices that affect it, and the people who must engage in the practice.
 
-A practice lead is a particular kind of leader in the organisation.
+A practice lead is a particular kind of leader in the organisation. For more context: `What is practice leadership? <https://ubuntu.com/blog/what-is-practice-leadership>`_
 
 
 At Canonical
