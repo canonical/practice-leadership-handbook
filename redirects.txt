@@ -1,0 +1,3 @@
+# Redirects for the Canonical Practice Leadership Handbook
+# Format: old-path new-path
+# https://sphinxext-rediraffe.readthedocs.io/en/latest/

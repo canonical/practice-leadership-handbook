@@ -18,14 +18,14 @@ It helps to spend a little time understanding what we are dealing with. The firs
 
 .. list-table::
     :header-rows: 1
-    :widths: 50 50   
+    :widths: 50 50
 
     * - things people merely dislike
       - things that really do hurt
     * - being shaken out of comfortable patterns
 
         being asked to change their complacent ways
-    
+
         being challenged to improve
       - working situations that conflict with their values
 
@@ -54,11 +54,11 @@ Believing that you, unlike the vast majority of other people, can distinguish be
     I have a fundamental *need*, which if not met, represents a genuine hurt. I find it difficult to express it as a need, so instead I construct an edifice of *argument and justification*, and present it to you as a claim that demands the assent of any reasonable person. You reject the claim as an expression of *mere preference* that's falsely wearing clothes of truth and objectivity.
 
     That is, a need becomes expressed in the language of right and wrong, and then heard (and therefore dismissed) as a mere want.
-    
+
     *This is a near-universal pattern.*
 
     The key elements are: people's general inability to express their own needs, and their general tendency to demote other people's claims to the status of mere preference.
-    
+
     Put together, they mean that **we are all at almost permanent risk of failing to recognise other people's needs**.
 
 **This is a very risky position to put yourself in as a leader.** Almost nothing is guaranteed to cause more genuine unhappiness and damage than a sense of unrecognised need or concern. You can easily do more harm by failing to acknowledge a need, than by failing to meet it.
@@ -69,13 +69,13 @@ Believing that you, unlike the vast majority of other people, can distinguish be
 Taking responsibility
 =====================
 
-You can't be held responsible for not meeting all needs, because that's impossible anyway. 
+You can't be held responsible for not meeting all needs, because that's impossible anyway.
 
 However, you are responsible for deciding whose needs you will meet and whose you will not - and it's important to take responsibility for that. Be forthright about what it is that you are doing. If the decision is yours, own it. If you have the slightest suspicion that what you are doing runs counter to someone's need, address that. Don't downgrade it to a mere want, or worse, turn it into a rejected argument.
 
 .. list-table::
     :header-rows: 1
-    :widths: 50 50   
+    :widths: 50 50
 
     * - Taking responsibility
       - Evading responsibility
@@ -92,7 +92,7 @@ It's hard to look someone in the eye, acknowledge a need, and tell them that you
 On feelings
 ===========
 
-**People's feelings don't matter because they're right, they matter because they are feelings, and feelings nearly always represent needs.** 
+**People's feelings don't matter because they're right, they matter because they are feelings, and feelings nearly always represent needs.**
 
 You might prefer to deal with matters of truth and right than with feelings. Even if you do, you will still find that what requires the greatest care to navigate are people's feelings.
 
@@ -100,7 +100,7 @@ This can be hard to swallow, especially in the case where we are dealing with th
 
 However, all these things still belong to people. **Everything that people think, say and do is thoroughly coloured by and invested with their feelings.**
 
-That's just how things are; as a realist, you need to recognise and learn to deal with it whether you like it or not. There is absolutely no point in trying to change it either. 
+That's just how things are; as a realist, you need to recognise and learn to deal with it whether you like it or not. There is absolutely no point in trying to change it either.
 
 This doesn't mean that everyone's feelings are always right or that we should be governed by them. It doesn't mean that truth or reason should be subordinated to feeling. It means that **being successful requires paying attention to feelings, because of what they represent**.
 
@@ -113,9 +113,10 @@ When you decide to say or do something that someone really doesn't like, possibl
 You must recognise when what you're saying or doing is going to be unpopular, and acknowledge it explicitly. Nobody will feel better about it if you keep quiet. At the same time you don't need to fear that being explicit about it will make it any more unpopular.
 
 ..  image:: images/bitter-medicine.jpg
-    :class: floated
+    :align: right
+    :width: 50%
 
-It's hard for people to accept unpopular, painful things, and especially so if the person administering the pain appears not to understand that it's painful.  
+It's hard for people to accept unpopular, painful things, and especially so if the person administering the pain appears not to understand that it's painful.
 
 It's not the unpopularity of what you need to do that's the issue, it's how people see *you*. Essentially, it's a matter of trust. If you are trusted, people will be willing to accept quite bitter medicine, even though they don't like it.
 

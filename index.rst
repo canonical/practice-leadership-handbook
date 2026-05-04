@@ -13,7 +13,8 @@ At Canonical
 ============
 
 ..  image:: images/forward.jpg
-    :class: floated
+    :align: right
+    :width: 50%
     :alt: Forward!
 
 Canonical has established a model of practice leadership in software as part of its wider ambitions for **engineering excellence**. The model needs to be systematic, pragmatic and adaptable - for example to domains beyond engineering. Above all, it needs to be effective. At the heart of that model is the person of the *practice lead* who is responsible for it.

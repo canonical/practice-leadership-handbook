@@ -16,9 +16,8 @@ rm -rf "$temp_directory/.git"
 echo "Updating working directory in workflow files..."
 sed -i "s|working-directory:\s*'\.'|working-directory: '$install_directory'|g" "$temp_directory/.github/workflows"/*
 echo "Updating .readthedocs.yaml configuration..."
-sed -i "s|-\s\s*python3\s\s*.sphinx/build_requirements\.py|- cd '$install_directory' \&\& python3 .sphinx/build_requirements.py|g" "$temp_directory/.readthedocs.yaml"
 sed -i "s|configuration:\s*conf\.py|configuration: $install_directory/conf.py|g" "$temp_directory/.readthedocs.yaml"
-sed -i "s|requirements:\s*\.sphinx/requirements\.txt|requirements: $install_directory/.sphinx/requirements.txt|g" "$temp_directory/.readthedocs.yaml"
+sed -i "s|requirements:\s*docs/requirements\.txt|requirements: $install_directory/requirements.txt|g" "$temp_directory/.readthedocs.yaml"
 
 # Create the specified installation directory if it doesn't exist
 if [ ! -d "$install_directory" ]; then
@@ -38,11 +37,6 @@ if [ "$install_directory" != "." ]; then
     fi
     mv "$install_directory/.github/workflows"/* .github/workflows
     rmdir -p --ignore-fail-on-non-empty "$install_directory/.github/workflows"
-    if [ ! -f .wokeignore ]; then
-        ln -s "$install_directory/.wokeignore"
-    else
-        echo "ACTION REQUIRED: Found a .wokeignore file in the root directory. Include the contents from $install_directory/.wokeignore in this file!"
-    fi
 fi
 
 # Clean up
