@@ -102,7 +102,7 @@ Having a message of outstanding clarity that conveys persuasive, compelling visi
 
 Authority is claimed as much as it is granted. The authority of your position will be marked by the very first time you address the organisation. Will it be tentatively, timidly, to small audiences? Or will you require the attention of the organisation as a whole to hear what *you* have to say, because *they* need to hear it?
 
-As a practice lead, you are not just entitled to claim that authority, but obliged to. Tthe worst thing you can do with authority is to abuse it, and the second-worst thing is to squander it.
+As a practice lead, you are not just entitled to claim that authority, but obliged to. The worst thing you can do with authority is to abuse it, and the second-worst thing is to squander it.
 
 **If you don't believe and assert with confidence that the organisation needs to hear your message, coming from you, about your vision - then nobody else will believe it either.**
 
@@ -128,6 +128,6 @@ It will seem sometimes that you have to do it endlessly, especially if your visi
 
 There is no way around that - but you can help yourself by developing a battery of resources to do some of this work for you, that all convey the same messages in different forms - presentations, weblog articles, conference talks, images, slogans - reminders of one kind or another that repeat the message.
 
-All these things need to be *forcefulful and unapologetic*. They need to reinforce what you say, not dilute it.
+All these things need to be *forceful and unapologetic*. They need to reinforce what you say, not dilute it.
 
 `Workbook - resources to carry your message <https://docs.google.com/document/d/18_OOHIZJ8SQASDjdrtgU9TzLSZDl0fa91eGfHQsODM4/edit?tab=t.0#heading=h.1f4pxjep7i2p>`_

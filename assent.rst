@@ -48,7 +48,8 @@ You want to make it so that no reasonable person could refuse the force of your 
 **Unfortunately, you will be wasting your time.** It's true that rationale, evidence, study and so on are important. A vision that can't fall back on them is unlikely to be robust. However, **they do not need to be part of its presentation in order for it to be believable**. In fact they have the opposite effect: they are heavy and tiring, off-putting things.
 
 ..  figure:: images/reason.jpg
-    :figclass: floated
+    :align: right
+    :figwidth: 50%
 
     They especially don't like being taken by the throat, even by logic.
 
@@ -101,7 +102,7 @@ Wearable belief
 As noted above, people believe ideas because the belief fits them comfortably.
 
 ..  figure:: images/bad-habit.jpg
-    :figclass: floated
+    :figclass: side-by-side
 
     The language of wearing is not just a metaphor. In many languages, words that refer to clothing and to behaviour and attitudes and beliefs are the same.
 

@@ -15,7 +15,7 @@ There are two kinds of practitioners you need to consider:
 Specialists
 ===========
 
-You might find yourself working with an existing cohort of specialists - for example, techinical authors in documentation. Or you might need to build a team of specialists, from existing and new colleagues.
+You might find yourself working with an existing cohort of specialists - for example, technical authors in documentation. Or you might need to build a team of specialists, from existing and new colleagues.
 
 Either way, to be successful specialists need identity not only as a team, but also as a disciplinary group, professionals united by expertise and the values of their craft. They need:
 
@@ -56,9 +56,9 @@ You must find ways to give their role as your practitioner meaning, for them, in
 
 Both of these matter. Showing how serious the role is, and what sort of commitment it requires, will help you get agreement about *how much* you can ask of their time. But **showing value they create** is critical.
 
-Recognition is the key. Especially at the beginning, it will do no harm at all to make a strong point of it, explicitly hightlighting the value and the person who created it at every opportunity. Many people in the organisation will not at first understand what the value is and why it matters, but having a leader in the organisation point it out will show that it does.
+Recognition is the key. Especially at the beginning, it will do no harm at all to make a strong point of it, explicitly highlighting the value and the person who created it at every opportunity. Many people in the organisation will not at first understand what the value is and why it matters, but having a leader in the organisation point it out will show that it does.
 
-You will not have a career path or job definitions to offer these non-specialist practictioners. They already belong to their own discipline. But, you can define progress for them in a path that runs alongside that, marked by qualifications, achievements and other ways of recognising them.
+You will not have a career path or job definitions to offer these non-specialist practitioners. They already belong to their own discipline. But, you can define progress for them in a path that runs alongside that, marked by qualifications, achievements and other ways of recognising them.
 
 
 Competing demands on practitioners
