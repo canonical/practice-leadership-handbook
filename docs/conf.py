@@ -21,10 +21,10 @@ import textwrap
 
 # Project name
 # TODO: Update with the official name of your project or product (e.g., "Ubuntu Server")
-project = 'Canonical Practice Leadership Handbook'
+project = "Canonical Practice Leadership Handbook"
 
 # Author name; used in the default copyright statement in the page footer
-author = 'Daniele Procida'
+author = "Daniele Procida"
 
 # The year in the copyright statement
 copyright = f"{datetime.date.today().year}"
@@ -34,7 +34,7 @@ copyright = f"{datetime.date.today().year}"
 html_title = project
 
 # Documentation website URL
-ogp_site_url = os.environ.get("READTHEDOCS_CANONICAL_URL", "/")
+ogp_site_url = f"https://canonical.com/leadership/docs/practice-leadership-handbook/"
 
 # Preview name of the documentation website
 # TODO: To use a different name for the project in previews, update the next line.
@@ -55,7 +55,7 @@ html_context = {
     # TODO: Change to your product website URL, dropping the 'https://' prefix (e.g.,
     #       'ubuntu.com/lxd'). If there's no such website, remove the {{ product_page }}
     #       link from the _templates/header.html file.
-    "product_page": 'documentation.ubuntu.com/canonical-practice-leadership-handbook/',
+    "product_page": "documentation.ubuntu.com/canonical-practice-leadership-handbook/",
     # Product tag image; the orange part of your logo, shown in the page header
     # TODO: To add a tag image, uncomment and update as needed.
     # 'product_tag': '_static/tag.png',
@@ -72,7 +72,7 @@ html_context = {
     # documentation source files and creating GitHub issues are added at the bottom of
     # each page.
     # TODO: Change to your documentation GitHub repository URL or leave empty.
-    "github_url": 'https://github.com/canonical/practice-leadership-handbook',
+    "github_url": "https://github.com/canonical/practice-leadership-handbook",
     # Docs branch in the repo; used in links for viewing the source files
     "repo_default_branch": "main",
     # Docs location in the repo; used in links for viewing the source files
@@ -111,14 +111,14 @@ html_context = {
 # Project slug
 # TODO: If your documentation is hosted on https://documentation.ubuntu.com/,
 #       uncomment and set to the RTD slug.
-slug = "canonical-practice-leadership-handbook"
+slug = "leadership/docs/practice-leadership-handbook"
 
 #######################
 # Sitemap configuration: https://sphinx-sitemap.readthedocs.io/
 #######################
 
 # Use RTD canonical URL to ensure duplicate pages have a specific canonical URL
-html_baseurl = os.environ.get("READTHEDOCS_CANONICAL_URL", "/")
+html_baseurl = f"https://canonical.com/leadership/docs/practice-leadership-handbook/"
 
 # sphinx-sitemap uses html_baseurl to generate the full URL for each page:
 sitemap_url_scheme = "{link}"
@@ -134,6 +134,9 @@ sitemap_excludes = [
     "genindex/",
     "search/",
 ]
+
+sitemap_filename = "doc-sitemap.xml"
+
 
 ################################
 # Template and asset locations #
@@ -252,9 +255,10 @@ html_css_files = [
 ]
 
 # Adds custom JavaScript files, located remotely or in 'html_static_path'.
-# html_js_files = [
-#     "https://assets.ubuntu.com/v1/287a5e8f-bundle.js",
-# ]
+html_js_files = [
+    # "https://assets.ubuntu.com/v1/287a5e8f-bundle.js",
+    "js/overwrite_links.js",
+]
 
 # Appends extra markup to the end of every document written in reST
 # rst_epilog = """
