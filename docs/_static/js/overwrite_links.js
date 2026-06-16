@@ -1,38 +1,39 @@
-// Replaces oldDomain with newDomain in relevant anchor tags
-const oldDomain =
-  "canonical-practice-leadership-handbook-new.readthedocs-hosted.com";
-const newDomain = "canonical.com/leadership/docs/practice-leadership-handbook";
+// Replaces <RTD documentation address> with <new documentation address> in links
+
+const rtd_address = 'canonical-practice-leadership-handbook-proxied.readthedocs-hosted.com';
+const new_address = 'canonical.com/leadership/docs/practice-leadership-handbook';
 
 function escapeRegExp(value) {
-  return value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+    return value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 }
 
 function overwriteMatchingAnchorUrls(container) {
-  if (!container) return;
+    if (!container) return;
 
-  const anchors = container.querySelectorAll("a[href], link[href]");
-  const oldDomainRegex = new RegExp(escapeRegExp(oldDomain), "g");
+    const anchors = container.querySelectorAll('a[href], link[href]');
+    const rtd_addressRegex = new RegExp(escapeRegExp(rtd_address), 'g');
 
-  anchors.forEach((anchor) => {
-    anchor.href = anchor.href.replace(oldDomainRegex, newDomain);
-  });
+    anchors.forEach(anchor => {
+        anchor.href = anchor.href.replace(rtd_addressRegex, new_address);
+    });
 }
 
-overwriteMatchingAnchorUrls(document.querySelector("header"));
+overwriteMatchingAnchorUrls(document.querySelector('header'));
 
 // Use a MutationObserver to wait for the RTD flyout element to appear in the DOM
-const observer = new MutationObserver(function (mutations, obs) {
-  const rtdFlyout = document.querySelector("readthedocs-flyout");
-  if (!rtdFlyout) return;
+const observer = new MutationObserver(function(mutations, obs) {
 
-  obs.disconnect();
+    const rtdFlyout = document.querySelector('readthedocs-flyout');
+    if (!rtdFlyout) return;
 
-  rtdFlyout.addEventListener("click", function () {
-    const shadowRoot = rtdFlyout.shadowRoot;
-    if (!shadowRoot) return;
+    obs.disconnect();
 
-    overwriteMatchingAnchorUrls(shadowRoot);
-  });
+    rtdFlyout.addEventListener('click', function() {
+        const shadowRoot = rtdFlyout.shadowRoot;
+        if (!shadowRoot) return;
+
+        overwriteMatchingAnchorUrls(shadowRoot);
+    });
 });
 
 observer.observe(document.body, { childList: true, subtree: true });

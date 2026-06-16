@@ -34,7 +34,7 @@ copyright = f"{datetime.date.today().year}"
 html_title = project
 
 # Documentation website URL
-ogp_site_url = f"https://canonical.com/leadership/docs/practice-leadership-handbook/"
+ogp_site_url = "https://canonical.com/leadership/docs/practice-leadership-handbook/"
 
 # Preview name of the documentation website
 # TODO: To use a different name for the project in previews, update the next line.
@@ -118,7 +118,7 @@ slug = "leadership/docs/practice-leadership-handbook"
 #######################
 
 # Use RTD canonical URL to ensure duplicate pages have a specific canonical URL
-html_baseurl = f"https://canonical.com/leadership/docs/practice-leadership-handbook/"
+html_baseurl = "https://canonical.com/leadership/docs/practice-leadership-handbook/"
 
 # sphinx-sitemap uses html_baseurl to generate the full URL for each page:
 sitemap_url_scheme = "{link}"
