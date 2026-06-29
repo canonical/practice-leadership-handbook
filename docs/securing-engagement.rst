@@ -82,7 +82,7 @@ Outcome
 
 *What shall this this encounter achieve?* 
 
-* "I want to indentify our top three priorities for x."
+* "I want to identify our top three priorities for x."
 * "After this workshop, you'll be ready for y."
 * "I'd like to introduce myself."
 

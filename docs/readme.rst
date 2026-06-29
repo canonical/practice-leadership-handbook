@@ -3,7 +3,7 @@
 Canonical Practice Leadership Handbook
 ======================================
 
-`Published version of the Practice Leadership Hndbook <https://documentation.ubuntu.com/canonical-practice-leadership-handbook/>`_.
+`Published version of the Practice Leadership Handbook <https://documentation.ubuntu.com/canonical-practice-leadership-handbook/>`_.
 
 The handbook supports the development of company-wide practice leadership at Canonical, but has also been used at much smaller scales, and could be useful in other organisations.
 
