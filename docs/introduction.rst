@@ -44,4 +44,4 @@ Change - establishing new practice - is one aspect of your challenge. Another is
 
 Your only chance of success is once again to **build reinforcement into the practices you establish**. They must become self-tightening mechanisms, that ratchet tighter and not looser in response to the inevitable testing and tugging that they will inevitably subjected to. They must draw attention to themselves,  signalling their own integrity and correctness, and flagging their own failures.
 
-The numerous resources and tools presented in the handbook will help you do that, but you will need to find ways to adapt them to your own practice, and invent your owm.
+The numerous resources and tools presented in the handbook will help you do that, but you will need to find ways to adapt them to your own practice, and invent your own.

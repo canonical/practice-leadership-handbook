@@ -8,7 +8,7 @@ One of your challenges is to be able to present a compelling and believable visi
 
 **Your vision, however beautiful, will be quite useless if you're the only one who believes in it.**
 
-*Securing assent* is a quite different kind of communication from sharing a vision a vision. That is something like broadcasting. Securing assent by contrast is a two-way transaction - an exchange.
+*Securing assent* is a quite different kind of communication from sharing a vision. That is something like broadcasting. Securing assent by contrast is a two-way transaction -- an exchange.
 
 
 How belief works
@@ -16,7 +16,7 @@ How belief works
 
 We invest a vast amount of intellectual energy in the ideas that we think deserve it, to make them not just strong and believable, but deserving of belief. We make them intellectually rigorous, and understandable.
 
-The problem is that we we think this will make people believe them. Sadly, this is completely untrue.
+The problem is that we think this will make people believe them. Sadly, this is completely untrue.
 
 The fact is that **people believe ideas because the belief fits them comfortably**.
 
